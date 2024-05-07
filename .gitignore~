@@ -1,0 +1,11 @@
+data/REDS/
+results/
+
+
+# images
+*.jpg
+*.png
+
+*.zip
+
+snapshot/
